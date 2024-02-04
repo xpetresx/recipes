@@ -1,9 +1,9 @@
 # Potato salad
 There are many different variants. Every family has its own "proper" recipe, but this one is the best.
-
-Preparation time: 90 min
-Difficulty: medium
-Serves: 4 adults
+<br>
+**Preparation time:** 90 min<br>
+**Difficulty:** medium<br>
+**Serves:** 4 adults<br>
 
 ## Ingredients
   * 1000g potatoes - boiler type A
@@ -24,7 +24,7 @@ Serves: 4 adults
   * Let it cool in fridge ideally to the next day
 
 ## Serving
-Potato salad is typically served on Christmas Eve with fish or schnitzel. 
+Potato salad is typically served on Christmas Eve with fish or schnitzel. <br>
 You can make small canapes with it. Spread it on pastry and decorate with either or all: 
   * ham
   * salami
