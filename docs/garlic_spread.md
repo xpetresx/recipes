@@ -1,7 +1,7 @@
 # Garlic spread
-Preparation time: 10 min
-Difficulty: easy
-Serves: 2 adults
+**Preparation time:** 10 min<br>
+**Difficulty:** easy<br>
+**Serves:** 2 adults<br>
 
 ## Ingredients
   * 100g hard cheese - Eidam/Edam
